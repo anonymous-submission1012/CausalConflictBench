@@ -1,0 +1,10 @@
+# Optional local multimodal adapter dependencies.
+#
+# The main TRO / VCI evaluation entry points use the Python standard library
+# for API calls, JSON/JSONL handling, and CSV report writing. Install these
+# packages only when running models/llava_onevision_openai_server.py.
+Pillow
+torch
+transformers
+accelerate
+qwen-vl-utils
