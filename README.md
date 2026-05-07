@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CausalConflictBench
 
 **CausalConflictBench: Can Multimodal Models Follow Local Mechanisms That Conflict with Commonsense?**
@@ -247,3 +248,6 @@ This repository provides CausalConflictBench question files, evaluation scripts,
 | VCI visual sequences | `https://huggingface.co/datasets/anonymous-submission1012/CausalConflictBench` | Three-frame visual sequences used for VCI visual rule induction | Governed by the VCI visual-asset terms on that data page |
 | VCI question / option files | This repository: `data/VCI/shuffled_no_because/` | VCI transfer questions, semantic option roles, and metadata | Governed by the VCI text-asset terms in the repository license / provenance files |
 | Scripts and prompts | This repository: `models/`, `testCausal/`, `test_visual_causal/` | Evaluation, construction, and diagnostic scripts | Governed by the code and prompt terms in the repository license file |
+=======
+# CausalConflictBench
+>>>>>>> bcc2a5060fb1e6b5101d2a39541f52bee1400c89
